@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceaf8"
+  },
+  "genre": "Action",
+  "slug": "action",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceaf9"
+  },
+  "genre": "Adventure",
+  "slug": "adventure",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceafa"
+  },
+  "genre": "Animation",
+  "slug": "animation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceafb"
+  },
+  "genre": "Comedy",
+  "slug": "comedy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceafc"
+  },
+  "genre": "Crime",
+  "slug": "crime",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceafd"
+  },
+  "genre": "Documentary",
+  "slug": "documentary",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceafe"
+  },
+  "genre": "Drama",
+  "slug": "drama",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceaff"
+  },
+  "genre": "Family",
+  "slug": "family",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb00"
+  },
+  "genre": "Fantasy",
+  "slug": "fantasy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb01"
+  },
+  "genre": "History",
+  "slug": "history",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb02"
+  },
+  "genre": "Horror",
+  "slug": "horror",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb03"
+  },
+  "genre": "Music",
+  "slug": "music",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb04"
+  },
+  "genre": "Mystery",
+  "slug": "mystery",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb05"
+  },
+  "genre": "Romance",
+  "slug": "romance",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb06"
+  },
+  "genre": "Science Fiction",
+  "slug": "sci-fi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb07"
+  },
+  "genre": "TV Movie",
+  "slug": "tv-movie",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb08"
+  },
+  "genre": "Thriller",
+  "slug": "thriller",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb09"
+  },
+  "genre": "War",
+  "slug": "war",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d501b04e4675c506ceb0a"
+  },
+  "genre": "Western",
+  "slug": "western",
+  "__v": 0
+}]

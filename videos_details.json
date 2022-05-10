@@ -1,0 +1,408 @@
+[{
+  "_id": {
+    "$oid": "615d67e13699c9b7aa21fcb5"
+  },
+  "type": "movie",
+  "title": "venom",
+  "tagline": "The world has enough Superheroes.",
+  "desc": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+  "short_desc": "Investigative journalist Eddie Brock attempts a come",
+  "image_small": "venom-2018-small.jpg",
+  "image": "venom-2018.jpg",
+  "bg_image": "venom-bg.jpg",
+  "release_yr": 2018,
+  "genres": [
+    {
+      "genre": "Science Fiction",
+      "slug": "sci-fi",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcb6"
+      }
+    },
+    {
+      "genre": "Action",
+      "slug": "action",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcb7"
+      }
+    }
+  ],
+  "length": "1h52min",
+  "actors": [
+    {
+      "name": "Tom Hardy",
+      "image": "tom-hardy.jpg",
+      "slug": "tom-hardy",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcb8"
+      }
+    },
+    {
+      "name": "Michele Williams",
+      "image": "michele-williams.jpg",
+      "slug": "michele-williams",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcb9"
+      }
+    }
+  ],
+  "slug": "venom",
+  "nextPath": "#",
+  "recommendations": [
+    {
+      "title": "1920 London",
+      "image": "16.jpg",
+      "slug": "1920-london",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcba"
+      }
+    },
+    {
+      "title": "Hobbit",
+      "image": "9.jpg",
+      "slug": "hobbit",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcbb"
+      }
+    }
+  ],
+  "views": 20,
+  "seasons": [],
+  "timestamp": {
+    "$date": "2021-10-06T09:09:53.159Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d67e13699c9b7aa21fcbc"
+  },
+  "type": "movie",
+  "title": "venom 2",
+  "tagline": "The world has enough Superheroes.",
+  "desc": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+  "short_desc": "Investigative journalist Eddie Brock attempts a come",
+  "image_small": "venom-2018-small.jpg",
+  "image": "venom-2018.jpg",
+  "bg_image": "venom-bg.jpg",
+  "release_yr": 2018,
+  "genres": [
+    {
+      "genre": "Science Fiction",
+      "slug": "sci-fi",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcbd"
+      }
+    },
+    {
+      "genre": "Action",
+      "slug": "action",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcbe"
+      }
+    }
+  ],
+  "length": "1h52min",
+  "actors": [
+    {
+      "name": "Tom Hardy",
+      "image": "tom-hardy.jpg",
+      "slug": "tom-hardy",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcbf"
+      }
+    },
+    {
+      "name": "Michele Williams",
+      "image": "michele-williams.jpg",
+      "slug": "michele-williams",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcc0"
+      }
+    }
+  ],
+  "slug": "venom2",
+  "nextPath": "#",
+  "recommendations": [],
+  "views": 16,
+  "seasons": [],
+  "timestamp": {
+    "$date": "2021-10-06T09:09:53.161Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d67e13699c9b7aa21fcc1"
+  },
+  "type": "movie",
+  "title": "venom 3",
+  "tagline": "The world has enough Superheroes.",
+  "desc": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+  "short_desc": "Investigative journalist Eddie Brock attempts a come",
+  "image_small": "venom-2018-small.jpg",
+  "image": "venom-2018.jpg",
+  "bg_image": "venom-bg.jpg",
+  "release_yr": 2018,
+  "genres": [
+    {
+      "genre": "Science Fiction",
+      "slug": "sci-fi",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcc2"
+      }
+    },
+    {
+      "genre": "Comedy",
+      "slug": "comedy",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcc3"
+      }
+    }
+  ],
+  "length": "1h52min",
+  "actors": [
+    {
+      "name": "Michele Williams",
+      "image": "michele-williams.jpg",
+      "slug": "michele-williams",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcc4"
+      }
+    }
+  ],
+  "slug": "venom3",
+  "nextPath": "#",
+  "recommendations": [],
+  "views": 200,
+  "seasons": [],
+  "timestamp": {
+    "$date": "2021-10-06T09:09:53.162Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d67e13699c9b7aa21fcc5"
+  },
+  "type": "series",
+  "title": "What If...?",
+  "tagline": "One question changes everything.",
+  "desc": "Taking inspiration from the comic books of the same name, each episode explores a pivotal moment from the Marvel Cinematic Universe and turns it on its head, leading the audience into uncharted territory.",
+  "short_desc": "Taking inspiration from the comic books of the same",
+  "image_small": "what-if-small.jpg",
+  "image": "what-if.jpg",
+  "bg_image": "what-if-bg.jpg",
+  "release_yr": 2021,
+  "genres": [
+    {
+      "genre": "Animation",
+      "slug": "animation",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcc6"
+      }
+    },
+    {
+      "genre": "Action",
+      "slug": "action",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcc7"
+      }
+    },
+    {
+      "genre": "Adventure",
+      "slug": "adventure",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcc8"
+      }
+    },
+    {
+      "genre": "Science Fiction",
+      "slug": "sci-fi",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcc9"
+      }
+    },
+    {
+      "genre": "Fanatsy",
+      "slug": "fanatsy",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcca"
+      }
+    }
+  ],
+  "length": "34min",
+  "actors": [
+    {
+      "name": "Jeffrey Wright",
+      "image": "jeffrey-wright.jpg",
+      "slug": "jeffrey-wright",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fccb"
+      }
+    },
+    {
+      "name": "Terri Douglas",
+      "image": "terri-douglas.jpg",
+      "slug": "terri-douglas",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fccc"
+      }
+    },
+    {
+      "name": "Matthew Wood",
+      "image": "matthew-wood.jpg",
+      "slug": "matthew-wood",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fccd"
+      }
+    }
+  ],
+  "slug": "what-if",
+  "seasons": [],
+  "recommendations": [],
+  "views": 260,
+  "timestamp": {
+    "$date": "2021-10-06T09:09:53.164Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615d67e13699c9b7aa21fcce"
+  },
+  "type": "series",
+  "title": "The Walking Dead",
+  "tagline": "Fight the dead. Fear the living.",
+  "desc": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+  "short_desc": "Sheriff's deputy Rick Grimes awakens from a coma to",
+  "image_small": "the-walking-dead-small.jpg",
+  "image": "the-walking-dead.jpg",
+  "bg_image": "the-walking-dead-bg.jpg",
+  "release_yr": 2010,
+  "genres": [
+    {
+      "genre": "Action",
+      "slug": "action",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fccf"
+      }
+    },
+    {
+      "genre": "Adventure",
+      "slug": "adventure",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcd0"
+      }
+    },
+    {
+      "genre": "Drama",
+      "slug": "drama",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcd1"
+      }
+    },
+    {
+      "genre": "Science Fiction",
+      "slug": "sci-fi",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcd2"
+      }
+    },
+    {
+      "genre": "Fantasy",
+      "slug": "fantasy",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcd3"
+      }
+    }
+  ],
+  "length": "42min",
+  "actors": [
+    {
+      "name": "Norman Reedus",
+      "image": "norman-reedus.jpg",
+      "slug": "norman-reedus",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcd4"
+      }
+    },
+    {
+      "name": "Melissa McBride",
+      "image": "melissa-mcbride.jpg",
+      "slug": "melissa-mcbride",
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcd5"
+      }
+    }
+  ],
+  "slug": "the-walking-dead",
+  "seasons": [
+    {
+      "isCurrentSeason": false,
+      "image": "the-walking-dead-s10.jpg",
+      "sNo": 10,
+      "noOfEpisodes": 22,
+      "releaseYr": 2019,
+      "desc": "It is now Spring, a few months after the end of Season 9, when our group of survivors dared to cross into Whisperer territory during the harsh winter. The collected communities are still dealing with the after effects of Alpha’s horrific display of power, reluctantly respecting the new borderlines being imposed on them, all while organising themselves into a militia-style fighting force, preparing for a battle that may be unavoidable. But the Whisperers are a threat unlike any they have ever faced. Backed by a massive horde of the dead it is seemingly a fight they cannot win.",
+      "short_desc": "It is now Spring, a few months after the end of Season 9, when our group of survivors dared to cross into Whisperer territory during the harsh winter. The collected communities are still dealing with the after effects of Alpha’s horrific display of power, reluctantly respecting the new borderlines being imposed on them, all while organising themselves into a",
+      "episodes": [
+        {
+          "eNo": 21,
+          "title": "Diverged",
+          "desc": "Daryl and Carol come to a fork in the road and head their separate ways. Each going into their own type of survival mode, the easiest of challenges become much harder. Will their individual journeys be the tipping point needed to mend their friendship, or is the distance between them permanent?",
+          "link": "#",
+          "_id": {
+            "$oid": "615d67e13699c9b7aa21fcd7"
+          }
+        },
+        {
+          "eNo": 22,
+          "title": "Here's Negan",
+          "desc": "Carol takes Negan on a journey, hoping to minimize the increasing tension. Negan reflects on the events that led him to this point and comes to a conclusion about his future.",
+          "link": "#",
+          "_id": {
+            "$oid": "615d67e13699c9b7aa21fcd8"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcd6"
+      }
+    },
+    {
+      "isCurrentSeason": true,
+      "image": "the-walking-dead-s11.jpg",
+      "sNo": 11,
+      "noOfEpisodes": 22,
+      "releaseYr": 2019,
+      "desc": "It is now Spring, a few months after the end of Season 9, when our group of survivors dared to cross into Whisperer territory during the harsh winter. The collected communities are still dealing with the after effects of Alpha’s horrific display of power, reluctantly respecting the new borderlines being imposed on them, all while organising themselves into a militia-style fighting force, preparing for a battle that may be unavoidable. But the Whisperers are a threat unlike any they have ever faced. Backed by a massive horde of the dead it is seemingly a fight they cannot win.",
+      "short_desc": "It is now Spring, a few months after the end of Season 9, when our group of survivors dared to cross into Whisperer territory during the harsh winter. The collected communities are still dealing with the after effects of Alpha’s horrific display of power, reluctantly respecting the new borderlines being imposed on them, all while organising themselves into a",
+      "episodes": [
+        {
+          "eNo": 21,
+          "title": "Diverged",
+          "desc": "Daryl and Carol come to a fork in the road and head their separate ways. Each going into their own type of survival mode, the easiest of challenges become much harder. Will their individual journeys be the tipping point needed to mend their friendship, or is the distance between them permanent?",
+          "link": "#",
+          "_id": {
+            "$oid": "615d67e13699c9b7aa21fcda"
+          }
+        },
+        {
+          "eNo": 22,
+          "title": "Here's Negan",
+          "desc": "Carol takes Negan on a journey, hoping to minimize the increasing tension. Negan reflects on the events that led him to this point and comes to a conclusion about his future.",
+          "link": "#",
+          "_id": {
+            "$oid": "615d67e13699c9b7aa21fcdb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "615d67e13699c9b7aa21fcd9"
+      }
+    }
+  ],
+  "recommendations": [],
+  "views": 150,
+  "timestamp": {
+    "$date": "2021-10-06T09:09:53.168Z"
+  },
+  "__v": 0
+}]
